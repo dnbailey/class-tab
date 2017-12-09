@@ -1,0 +1,9 @@
+{
+  "name": "class-tab",
+  "version": "0.1",
+  "description": "Add links and resources to Class Tab.",
+  "main": "server.js",
+  "repository": "https://github.com/dnbailey/class-tab.git",
+  "author": "Nathan Bailey",
+  "license": "MIT"
+}
